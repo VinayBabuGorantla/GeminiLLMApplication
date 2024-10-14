@@ -1,1 +1,1 @@
-# Gemini LLM Applications
+# Gemini LLM Applications - Basic LLM Application, QA Chatbot and Image to text applicatons
